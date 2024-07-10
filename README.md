@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SHRIDhawaleBABA
+- 👋 Hi, I’m DhawaleBABA
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning js,angular,full stack
 - 💞️ I’m looking to collaborate on 
